@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525182614 source:c:\users\dell\desktop\programming project\project\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
+1525196794 source:c:\users\dell\desktop\programming project\project\string.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
